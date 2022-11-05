@@ -15,5 +15,12 @@
 	`ls`
 9. Found the flag file and did a `cat {file-name}` to show the flag.
 
+## Tools/commands used
+1. ping
+2. nmap
+3. telnet
+4. ls
+5. cat
+
 ## Summary
 This machine is an introductory machine and helps us understand the very basics of connectivity testing, service enumeration, basic linux knowledge, telnet service. 
