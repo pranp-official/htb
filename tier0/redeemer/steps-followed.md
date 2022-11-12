@@ -32,7 +32,7 @@ retrieval
 Any given Redis instance includes a number of databases, each of which can hold many different keys of a variety of data types. Out of the box, a Redis instance supports 16 logical databases (0-15)
 
 ## Summary
-This is an introductory machine ais focused on redis-cli and helping us understand the very basics of in-memory databases.
+This is an introductory machine and is focused on redis-cli and helping us understand the very basics of in-memory databases.
 
 ## Resources
 + https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis
